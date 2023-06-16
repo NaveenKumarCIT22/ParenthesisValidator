@@ -1,0 +1,24 @@
+#root {
+  background-color: rgb(68, 63, 63);
+  text-align: center;
+  margin-left: 20vw;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#txt {
+  font-size: 30px;
+  width: 50vw;
+}
+
+#stat {
+  font-size: medium;
+  color: yellow;
+}
+
+#submit {
+  font-size: large;
+  margin: 20px;
+  padding: 8px;
+  cursor: pointer;
+}
